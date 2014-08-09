@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="build" name="IOIOFirmwareGUI">
+    <property name="appName" value="IOIODudeGUI"/>
+    <property name="appMainClass" value="com.ioio.firmwaregui.MainActivity"/>
+	<import file="../build-ioio-pc-app.xml"/>
+</project>
